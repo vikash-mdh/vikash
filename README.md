@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **JAVA**
 
+ - 💬 Ask me about **C++**
+
 - 📫 How to reach me **LinkedIn**
 
 <h3 align="left">Connect with me:</h3>
